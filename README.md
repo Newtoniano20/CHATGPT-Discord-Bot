@@ -1,0 +1,2 @@
+# CHATGPT Discord Bot
+ 
